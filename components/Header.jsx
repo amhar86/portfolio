@@ -19,7 +19,7 @@ const Header = () => {
             <div className="hidden xl:flex items-center gap-8">
                 <Nav />
                 <a 
-                    href="/path-to-resume.pdf" 
+                    href="/Amhar_Resume (4).pdf" 
                     download="Amhar_Rishan_Resume.pdf" 
                     className="py-2 px-4 border border-red-500 text-red-500 rounded-full hover:bg-red-500 hover:text-black flex items-center gap-2 transition"
                 >
